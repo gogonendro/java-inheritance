@@ -1,5 +1,5 @@
 //practice program of single inheritance
-class Single {
+class Employee {
     String name;
     int salary;
 
@@ -8,7 +8,7 @@ class Single {
     }
 }
 
-class Manager extends Single {
+class Manager extends Employee {
     String dept;
 
     void showDept() {
