@@ -1,5 +1,5 @@
 //demonstration of multilevel inheritance
-class Animal {
+class Multilevel {
     String name;
 
     void eat() {
@@ -7,7 +7,7 @@ class Animal {
     }
 }
 
-class Mammal extends Animal {
+class Mammal extends Multilevel {
     int legs;
 
     void walk() {
