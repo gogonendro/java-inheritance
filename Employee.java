@@ -1,3 +1,4 @@
+//practice program of single inheritance
 class Employee {
     String name;
     int salary;
