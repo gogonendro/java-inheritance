@@ -1,3 +1,5 @@
+package Super;
+
 //using 'super' as method
 class Printer {
     void print() {

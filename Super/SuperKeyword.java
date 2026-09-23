@@ -1,3 +1,5 @@
+package Super;
+
 //implementing the 'super' keyword
 class BankAccount {
     int balance = 50000;

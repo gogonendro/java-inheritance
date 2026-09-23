@@ -1,3 +1,5 @@
+package Basic;
+
 //demonstration of multilevel inheritance
 class Animal {
     String name;
