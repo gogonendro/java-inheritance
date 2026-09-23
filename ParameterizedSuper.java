@@ -11,7 +11,7 @@ class TextBook extends Book {
     String subject;
 
     TextBook(String t, String s) {
-        super(t); // parameter is passed through constructor
+        super(t); // parameter is passed through super
         subject = s;
     }
 
