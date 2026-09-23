@@ -2,6 +2,8 @@
 
 Java programs based on **Inheritance**, covering fundamental Class XII concepts such as types of inheritance, method overriding, the `super` keyword, constructor chaining, and access modifiers.
 
+> **Note:** This repository is maintained solely for **learning and educational purposes**, as part of my study of Java Inheritance.
+
 ## What this repository contains
 
 This repository contains **15 Java programs** organized into five sections according to the concepts they demonstrate.
