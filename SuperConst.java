@@ -14,6 +14,6 @@ class ElectronicProduct extends Product {
 
 public class SuperConst {
     public static void main(String[] args) {
-        ElectronicProduct ob = new ElectronicProduct();
+        new ElectronicProduct();
     }
 }
