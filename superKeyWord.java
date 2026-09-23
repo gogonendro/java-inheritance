@@ -12,7 +12,7 @@ class SavingsAccount extends BankAccount {
     }
 }
 
-public class superKeyWord {
+public class SuperKeyword {
     public static void main(String[] args) {
         SavingsAccount ob = new SavingsAccount();
 
