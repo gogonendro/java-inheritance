@@ -25,9 +25,11 @@ class Programmer extends Employee {
 
 public class Hierarchy {
     public static void main(String[] args) {
+        // creats object of the subclasses
         Manager m = new Manager();
         Programmer p = new Programmer();
 
+        // accessing element from parent class
         m.name = "Rishi";
         p.name = "Akash";
 
