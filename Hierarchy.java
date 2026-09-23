@@ -1,5 +1,5 @@
 //hierarchical inheritance
-class Employee {
+class Employee2 {
     String name;
 
     void display() {
@@ -7,7 +7,7 @@ class Employee {
     }
 }
 
-class Manager extends Employee {
+class Manager2 extends Employee2 {
     String department;
 
     void manage() {
@@ -15,7 +15,7 @@ class Manager extends Employee {
     }
 }
 
-class Programmer extends Employee {
+class Programmer extends Employee2 {
     String language;
 
     void code() {
@@ -26,7 +26,7 @@ class Programmer extends Employee {
 public class Hierarchy {
     public static void main(String[] args) {
         // creats object of the subclasses
-        Manager m = new Manager();
+        Manager2 m = new Manager2();
         Programmer p = new Programmer();
 
         // accessing element from parent class
