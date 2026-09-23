@@ -7,6 +7,7 @@ class SavingsAccount extends BankAccount {
     int balance = 75000;
 
     void display() {
+        // super targets the immediate superclass' data of the present subclass
         System.out.println("Balance in Bank: " + super.balance);
         System.out.println("Balance in Savings: " + balance);
     }

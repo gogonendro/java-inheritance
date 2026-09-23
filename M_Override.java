@@ -22,6 +22,7 @@ class M_Override {
         Car2 c = new Car2();
         Boat b = new Boat();
 
+        // multiple classes accessing same method from same parent class
         c.move();
         b.move();
     }

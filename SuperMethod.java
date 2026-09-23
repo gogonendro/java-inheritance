@@ -8,6 +8,7 @@ class Printer {
 class ColourPrinter extends Printer {
     void print() {
         System.out.println("Printing a colour document");
+        // super targets the immediate superclass' method of the present subclass
         super.print();
     }
 }

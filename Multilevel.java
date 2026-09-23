@@ -25,6 +25,7 @@ class Dog extends Mammal {
     public static void main(String[] args) {
         Dog ob = new Dog();
 
+        // Animal --> Mammal --> Dog
         ob.name = "Poltu";
         ob.legs = 4;
         ob.breed = "Native Indian";
