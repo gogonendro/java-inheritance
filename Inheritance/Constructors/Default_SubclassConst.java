@@ -1,4 +1,3 @@
-
 //default constructor in subclass
 class Appliance {
     Appliance() {

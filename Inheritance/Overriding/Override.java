@@ -1,4 +1,3 @@
-
 //Method overriding
 class Shape {
     void draw() {

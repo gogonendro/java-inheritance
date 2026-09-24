@@ -1,4 +1,3 @@
-
 //my first inheritance program
 
 //super-class

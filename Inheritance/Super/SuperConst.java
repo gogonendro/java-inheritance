@@ -1,4 +1,3 @@
-
 //implement 'super' keyword as constructor
 class Product {
     Product() {
