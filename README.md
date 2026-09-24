@@ -1,18 +1,18 @@
 # java-inheritance
 
-Java programs based on **Inheritance**, covering fundamental Class XII concepts such as types of inheritance, method overriding, the `super` keyword, constructor chaining, and access modifiers.
+Java programs based on **Inheritance**, covering fundamental Class XII concepts such as types of inheritance, method overriding, the `super` keyword, constructor chaining, and access modifiers
 
 > **Note:** This repository is maintained solely for **learning and educational purposes**, as part of my study of Java Inheritance.
 
 ## What this repository contains
 
-This repository contains **15 Java programs** organized into five sections according to the concepts they demonstrate.
+This repository contains **15 Java programs** organized into five sections according to the concepts they demonstrate
 
 ---
 
 ## 1. Basic Inheritance
 
-Programs covering the fundamental types and structure of inheritance.
+Programs covering the fundamental types and structure of inheritance
 
 1. **Basic Inheritance** — demonstrates inheritance using the `extends` keyword.
 2. **Single Inheritance** — demonstrates one superclass and one subclass.
@@ -23,7 +23,7 @@ Programs covering the fundamental types and structure of inheritance.
 
 ## 2. Method Overriding
 
-Programs demonstrating how a subclass can provide its own implementation of an inherited method.
+Programs demonstrating how a subclass can provide its own implementation of an inherited method
 
 5. **Method Overriding** — demonstrates overriding a superclass method in a subclass.
 6. **Multiple Overriding** — demonstrates multiple subclasses overriding the same superclass method.
@@ -32,7 +32,7 @@ Programs demonstrating how a subclass can provide its own implementation of an i
 
 ## 3. `super` Keyword
 
-Programs demonstrating the different uses of the `super` keyword.
+Programs demonstrating the different uses of the `super` keyword
 
 7. **`super` with Variable** — accesses a superclass variable when the subclass contains a variable with the same name.
 8. **`super` with Method** — invokes an overridden method of the superclass.
@@ -42,7 +42,7 @@ Programs demonstrating the different uses of the `super` keyword.
 
 ## 4. Constructors
 
-Programs demonstrating constructor execution and constructor chaining in inheritance.
+Programs demonstrating constructor execution and constructor chaining in inheritance
 
 10. **Constructor Execution Order** — demonstrates the order in which constructors execute in multilevel inheritance.
 11. **Parameterized `super()`** — passes arguments to a parameterized superclass constructor using `super(...)`.
@@ -53,7 +53,7 @@ Programs demonstrating constructor execution and constructor chaining in inherit
 
 ## 5. Access Modifiers
 
-Programs demonstrating how access modifiers affect members inherited from a superclass.
+Programs demonstrating how access modifiers affect members inherited from a superclass
 
 14. **Private Member** — demonstrates that a private superclass member cannot be directly accessed by a subclass.
 15. **Protected Member** — demonstrates that a protected superclass member can be directly accessed by a subclass.
