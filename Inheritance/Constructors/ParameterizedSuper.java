@@ -1,4 +1,3 @@
-package Constructors;
 
 //using parameterized super
 class Book {

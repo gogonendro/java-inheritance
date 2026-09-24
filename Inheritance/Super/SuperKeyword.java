@@ -1,4 +1,3 @@
-package Super;
 
 //implementing the 'super' keyword
 class BankAccount {

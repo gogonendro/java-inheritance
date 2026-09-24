@@ -1,4 +1,3 @@
-package Basic;
 
 //practice program of single inheritance
 class Employee {

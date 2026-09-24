@@ -1,4 +1,3 @@
-package Overriding;
 
 //Method overriding
 class Shape {

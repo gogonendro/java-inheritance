@@ -1,5 +1,3 @@
-package Basic;
-
 //hierarchical inheritance
 class Employee2 {
     String name;

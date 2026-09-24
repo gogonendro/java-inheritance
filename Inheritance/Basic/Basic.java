@@ -1,4 +1,4 @@
-package Basic;
+
 //my first inheritance program
 
 //super-class

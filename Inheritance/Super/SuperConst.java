@@ -1,4 +1,3 @@
-package Super;
 
 //implement 'super' keyword as constructor
 class Product {

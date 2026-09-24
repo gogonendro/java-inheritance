@@ -1,4 +1,3 @@
-package Overriding;
 
 //overriding using multiple classes
 class Vehicle2 {
