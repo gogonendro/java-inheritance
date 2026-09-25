@@ -1,21 +1,21 @@
 package Polymorphism;
 
 //Run-Time Polymorphism
-class superclass {
+class Country {
     void display() {
-        System.out.println("This is superclass");
+        System.out.println("This is a country");
     }
 }
 
-class subclass extends superclass {
+class State extends Country {
     void display() {
-        System.out.println("This is subclass");
+        System.out.println("This is a state");
     }
 }
 
 public class MethodOverriding {
     public static void main(String[] args) {
-        superclass ob = new subclass(); // reference type -> superclass; actual object -> subclass
+        Country ob = new State(); // reference type -> superclass; actual object -> subclass
         ob.display(); // display() of subclass overrides the display() of superclass
     }
 }
