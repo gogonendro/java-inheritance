@@ -2,7 +2,7 @@
 
 Java programs based on **Object-Oriented Programming (OOP)**, covering fundamental Class XII concepts such as inheritance, polymorphism, abstraction, interfaces, and encapsulation
 
-> **Note:** This repository is maintained solely for **learning and educational purposes**, as part of my study of Java Object-Oriented Programming.
+> **Note:** This repository is maintained solely for **learning and educational purposes**, as part of my study of Java Object-Oriented Programming
 
 ## What this repository contains
 
@@ -50,7 +50,18 @@ Programs covering the fundamental concepts and types of inheritance
 
 Programs demonstrating different forms of polymorphism in Java
 
-*Programs to be added*
+### Compile-Time Polymorphism
+
+1. **Method Overloading** — demonstrates compile-time polymorphism by defining multiple methods with the same name but different parameter lists.
+
+### Run-Time Polymorphism
+
+2. **Method Overriding** — demonstrates runtime polymorphism through method overriding.
+3. **Multiple Subclasses** — demonstrates multiple subclasses overriding the same superclass method.
+4. **Dynamic Method Dispatch** — demonstrates how the overridden method is selected according to the actual object at runtime.
+5. **Polymorphic Method Parameters** — demonstrates how a method can accept objects of different subclasses through a superclass parameter.
+6. **Upcasting and Downcasting** — demonstrates treating a subclass object as a superclass object and explicitly converting the reference back to the subclass type.
+7. **`instanceof`** — demonstrates checking the actual type of an object before performing downcasting.
 
 ---
 
@@ -81,6 +92,7 @@ Programs demonstrating encapsulation and controlled access to class members
 ## Concepts Covered
 
 ### Inheritance
+
 - `extends` keyword
 - Single inheritance
 - Multilevel inheritance
@@ -95,7 +107,20 @@ Programs demonstrating encapsulation and controlled access to class members
 - `protected` members
 - Constructor execution order
 
+### Polymorphism
+
+- Compile-time polymorphism
+- Method overloading
+- Runtime polymorphism
+- Method overriding
+- Dynamic method dispatch
+- Polymorphic method parameters
+- Upcasting
+- Downcasting
+- `instanceof` operator
+
 ### OOP Concepts
+
 - Inheritance
 - Polymorphism
 - Abstraction
