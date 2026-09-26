@@ -62,6 +62,7 @@ Programs demonstrating different forms of polymorphism in Java
 5. **Polymorphic Method Parameters** — demonstrates how a method can accept objects of different subclasses through a superclass parameter.
 6. **Upcasting and Downcasting** — demonstrates treating a subclass object as a superclass object and explicitly converting the reference back to the subclass type.
 7. **`instanceof`** — demonstrates checking the actual type of an object before performing downcasting.
+8. **Final Recap** — combines the major polymorphism concepts covered in the section, including method overloading, method overriding, dynamic method dispatch, polymorphic parameters, upcasting, downcasting, and `instanceof`.
 
 ---
 
